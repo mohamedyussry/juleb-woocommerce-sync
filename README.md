@@ -110,4 +110,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Project Link: [https://github.com/your_username/juleb-woocommerce-sync](https://github.com/your_username/juleb-woocommerce-sync)
+Project Link: [https://github.com/mohamedyussry/juleb-woocommerce-sync](https://github.com/mohamedyussry/juleb-woocommerce-sync)
