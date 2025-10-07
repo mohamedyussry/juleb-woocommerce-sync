@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Juleb WooCommerce Sync</h1>
+  <h1 align="center">Juleb ERP WooCommerce Sync</h1>
   <p align="center">
     A powerful WordPress plugin to seamlessly synchronize your WooCommerce store with the Juleb API.
     <br />
